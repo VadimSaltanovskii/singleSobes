@@ -1,0 +1,7 @@
+.field {
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: aqua;
+    margin: 0 auto;
+    margin-top: 20px;
+}

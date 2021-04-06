@@ -1,0 +1,15 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    border: 2px solid aquamarine;
+    margin: auto;
+    align-items: center;
+    justify-content: space-between;
+    background-color: lightskyblue;
+}
+
+.route {
+    margin-top: 20px;
+}
+
